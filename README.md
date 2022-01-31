@@ -32,4 +32,5 @@ There are three main enemies as well.
 As mentioned, this was my first ever Unity project, all the textures are just basic colours, there is no sound or anything and there may be a few bugs due to a lack of testing.
 But, its still playable, and can be fun, if you ignore the the basic aesthetics...
 
+There are a lot of redundant files here because I did not know what gitignores were when I committed this all lol
 
